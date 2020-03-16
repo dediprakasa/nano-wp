@@ -1,0 +1,1 @@
+{"id":"src/components/{{ article.featured_img }}","dependencies":[{"name":"/home/deltadirac/Desktop/KingFox/Phase2_v2/Week 2/mini-wp-1/client/package.json","includedInParent":true,"mtime":1579063079656}],"generated":{"js":"module.exports = {};"},"sourceMaps":null,"error":null,"hash":"32b226ddecd7d8d2fcf81704c885aa12","cacheData":{"env":{}}}
