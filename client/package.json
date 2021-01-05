@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "autoprefixer": "^9.7.3",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "postcss-cli": "^7.1.0",
     "sweetalert2": "^9.5.4",
     "tailwindcss": "^1.1.4",
